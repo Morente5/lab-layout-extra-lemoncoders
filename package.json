@@ -1,0 +1,26 @@
+{
+  "name": "lab-layout-extra-lemoncoders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Morente5/lab-layout-extra-lemoncoders.git"
+  },
+  "keywords": [
+    "sass"
+  ],
+  "author": "Alejandro Morente <morente5@hotmail.es>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Morente5/lab-layout-extra-lemoncoders/issues"
+  },
+  "homepage": "https://github.com/Morente5/lab-layout-extra-lemoncoders#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.37.5"
+  }
+}
